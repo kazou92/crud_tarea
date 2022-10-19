@@ -24,3 +24,5 @@ true
 false
 
 );
+select * from crud_tarea ;
+select * from  crud_tarea where is_completed = true ;
